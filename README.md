@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[vidita mi blog](http://google.es)
+[visita mi blog](http://santacc.es)
